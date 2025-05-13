@@ -1,6 +1,6 @@
-# DataFusionX
+# FlowForge
 
-**DataFusionX** is an advanced Python application designed for scalable data extraction, transformation, and loading (ETL). It leverages modular architecture and efficient processing patterns to build data workflows suited for enterprise-grade use cases.
+**FlowForge** is an advanced Python application designed for scalable data extraction, transformation, and loading (ETL). It leverages modular architecture and efficient processing patterns to build data workflows suited for enterprise-grade use cases.
 
 ---
 
