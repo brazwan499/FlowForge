@@ -24,7 +24,7 @@
 ---
 
 ## 📁 Project Structure
-DataFusionX/
+FlowForge/
 ├── data/
 │ └── raw/ # Input data files
 ├── src/
